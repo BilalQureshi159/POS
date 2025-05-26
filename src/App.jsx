@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>
-        POS-System
+        POS-Systems
       </h1>
       <p>A Point of Sale (POS) system is a combination of hardware and software used by businesses—especially in retail, hospitality, and restaurants—to process sales transactions and manage various operational aspects.</p>
       <div>
